@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>Jump Lab</title>
+  <title>Dunk Lab</title>
   <description>Daily training for a higher vertical. Coaches Maya (strength), Devon (plyometrics), and Ray (dunk technique) debate what actually adds inches — built around one 36-year-old athlete&apos;s road from a year-long plateau to a 40-inch vertical and trick dunks. Disclosure: Maya, Devon, and Ray are AI-generated voices. The training content is researched for real athletes — check any medical concerns with a qualified professional.
 
 AI Generated</description>
   <language>en</language>
-  <itunes:author>Jump Lab</itunes:author>
-  <author>Jump Lab</author>
+  <itunes:author>Dunk Lab</itunes:author>
+  <author>Dunk Lab</author>
   <itunes:owner>
-    <itunes:name>Jump Lab</itunes:name>
+    <itunes:name>Dunk Lab</itunes:name>
     <itunes:email>sistieric@gmail.com</itunes:email>
   </itunes:owner>
-  <managingEditor>sistieric@gmail.com (Jump Lab)</managingEditor>
+  <managingEditor>sistieric@gmail.com (Dunk Lab)</managingEditor>
   <itunes:explicit>false</itunes:explicit>
   <atom:link href="https://muse.ai/podcasts/feed/1324982050699948/009c3769-b6b7-4e36-8457-1bf06792b3ec" rel="self" type="application/rss+xml"/>
   <itunes:image href="https://zenmoney12.github.io/jump-lab-feed/logo.jpg"/>
