@@ -1,0 +1,41 @@
+name: Sync podcast feed
+on:
+  schedule:
+    - cron: '30 9 * * *'   # daily 09:30 UTC (after the 5 AM ET episode run)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch upstream and inject author/email
+        run: |
+          curl -sL -A "Mozilla/5.0" "https://muse.ai/podcasts/feed/1324982050699948/009c3769-b6b7-4e36-8457-1bf06792b3ec" -o upstream.xml
+          python3 - <<'PYEOF'
+          import re
+          xml = open('upstream.xml').read()
+          assert '<channel>' in xml, 'upstream fetch failed'
+          xml = re.sub(r"\s*<itunes:author>.*?</itunes:author>", "", xml, flags=re.S)
+          xml = re.sub(r"\s*<author>.*?</author>", "", xml, flags=re.S)
+          xml = re.sub(r"\s*<itunes:owner>.*?</itunes:owner>", "", xml, flags=re.S)
+          xml = re.sub(r"\s*<managingEditor>.*?</managingEditor>", "", xml, flags=re.S)
+          tags = ("\n  <itunes:author>Jump Lab</itunes:author>"
+                  "\n  <author>Jump Lab</author>"
+                  "\n  <itunes:owner>\n    <itunes:name>Jump Lab</itunes:name>"
+                  "\n    <itunes:email>sistieric@gmail.com</itunes:email>\n  </itunes:owner>"
+                  "\n  <managingEditor>sistieric@gmail.com (Jump Lab)</managingEditor>")
+          xml, n = re.subn(r"(<language>[^<]*</language>)", r"\1" + tags, xml, count=1)
+          if n == 0:
+              xml = xml.replace("<channel>", "<channel>" + tags, 1)
+          open('feed.xml', 'w').write(xml)
+          print('items:', len(re.findall(r'<item>', xml)))
+          PYEOF
+      - name: Commit if changed
+        run: |
+          git config user.name "jump-lab-bot"
+          git config user.email "jump-lab-bot@users.noreply.github.com"
+          git add feed.xml
+          git diff --cached --quiet || git commit -m "Sync feed $(date -u +%F)"
+          git push
