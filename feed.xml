@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+<rss xmlns:psc="http://podlove.org/simple-chapters" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
  xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
  <title>Dunk Lab</title>
- <description>Daily training for a higher vertical. Coaches Maya (strength), Devon (plyometrics) and Ray (dunk technique) debate what actually adds inches — built around one 36-year-old athlete&apos;s road from a year-long plateau to a 40-inch vertical and trick dunks. Disclosure: Maya, Devon and Ray are AI-generated voices. The training content is researched for real athletes — check any medical concerns with a qualified professional.
-
-AI Generated</description>
+ <description>Daily training for a higher vertical. Andre (the park OG) and Devon (plyometrics scientist) debate what actually adds inches — built around one 36-year-old athlete&apos;s road from a year-long plateau to a 40-inch vertical and advanced dunks. Disclosure: Andre and Devon are AI-generated voices. The training content is researched for real athletes — check any medical concerns with a qualified professional.</description>
  <language>en</language>
  <itunes:author>Dunk Lab</itunes:author>
  <author>Dunk Lab</author>
@@ -395,7 +393,18 @@ AI Generated</description>
  <guid isPermaLink="false">ep-1971a6d0-d127-4382-a8ab-f3dc9d09a071</guid>
  <pubDate>Sun, 11 Oct 2026 09:59:55 +0000</pubDate>
  <itunes:duration>303</itunes:duration>
- </item>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:30.000" title="The trap: why the numerator falls faster than the denominator"/>
+    <psc:chapter start="00:01:10.000" title="Physics of jumping: the 6% vs 10% math that ruins cuts"/>
+    <psc:chapter start="00:02:00.000" title="Glycogen, hormones, and RED-S"/>
+    <psc:chapter start="00:03:10.000" title="Sleep, tendons, and the injury math"/>
+    <psc:chapter start="00:03:50.000" title="Recomposition over restriction + rules for cutting"/>
+    <psc:chapter start="00:04:40.000" title="The two-week diagnostic"/>
+    <psc:chapter start="00:05:10.000" title="Try this week"/>
+  </psc:chapters>
+</item>
  <item>
  <title>Ep. 26: Does Creatine Help You Jump Higher?</title>
  <description>Creatine upgrades the training; the training adds the inches.
@@ -423,7 +432,18 @@ AI Generated</description>
  <guid isPermaLink="false">ep-6a802e43-a6b0-4452-8955-c1cef053f731</guid>
  <pubDate>Sun, 11 Oct 2026 10:05:31 +0000</pubDate>
  <itunes:duration>297</itunes:duration>
- </item>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:20.000" title="The journey timeline: 14 to 24, documented in public"/>
+    <psc:chapter start="00:01:15.000" title="The knee pain chapter"/>
+    <psc:chapter start="00:02:00.000" title="Physics of jumping: force × time ÷ mass at 50.5 inches"/>
+    <psc:chapter start="00:02:40.000" title="The hype-kill: what Rivera's story does and doesn't prove"/>
+    <psc:chapter start="00:03:20.000" title="The universal part: focused periodization and the coaching tree"/>
+    <psc:chapter start="00:04:20.000" title="The Lab verdict"/>
+    <psc:chapter start="00:04:45.000" title="Try this week"/>
+  </psc:chapters>
+</item>
  <item>
  <title>Ep. 29: Best Weekly Dunk Training Plan</title>
  <description>The best week is the one you can repeat three times in a row.
@@ -451,7 +471,16 @@ AI Generated</description>
  <guid isPermaLink="false">ep-0d6db310-a078-434a-81c5-e0bad8d350e3</guid>
  <pubDate>Sun, 11 Oct 2026 13:40:41 +0000</pubDate>
  <itunes:duration>288</itunes:duration>
- </item>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:30.000" title="The asymmetry debate: do two-foot jumpers need single-leg training?"/>
+    <psc:chapter start="00:01:30.000" title="The 5-step ladder (pogos → single-leg pogos → forward hops → box step-off sticks → single-leg depth jumps)"/>
+    <psc:chapter start="00:03:00.000" title="Physics of jumping: impulse, halved contact area, and why stiffness is everything"/>
+    <psc:chapter start="00:03:30.000" title="Dunk myth vs verdict + the Single-Leg Audit"/>
+    <psc:chapter start="00:04:00.000" title="Tomorrow: contrast training"/>
+  </psc:chapters>
+</item>
  <item>
  <title>Ep. 31: Contrast Training: Lift Heavy, Then Jump Higher</title>
  <description>Andre and Devon take contrast training apart: the complex pair, French contrast and the nervous-system trick that makes jumps feel like trampolines — plus the honest evidence grade on the famous one-session &apos;pop&apos;.
@@ -461,7 +490,18 @@ AI Generated</description>
  <guid isPermaLink="false">ep-228a8029-73b8-4ca4-afad-a5839c73204e</guid>
  <pubDate>Mon, 12 Oct 2026 09:03:49 +0000</pubDate>
  <itunes:duration>348</itunes:duration>
- </item>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:30.000" title="What contrast training is: heavy lift + explosive movement, back to back"/>
+    <psc:chapter start="00:01:15.000" title="The friction"/>
+    <psc:chapter start="00:02:10.000" title="Physics of Jumping"/>
+    <psc:chapter start="00:02:45.000" title="The three formats"/>
+    <psc:chapter start="00:03:50.000" title="Programming rules"/>
+    <psc:chapter start="00:04:30.000" title="Dunk Myth vs Verdict"/>
+    <psc:chapter start="00:05:00.000" title="Your Project This Week"/>
+  </psc:chapters>
+</item>
  <item>
  <title>Dunk Lab Special: How We Make This Show Better</title>
  <description>Andre and Devon turn the lab on itself — debating how to make Dunk Lab the most helpful jump-training podcast without losing the personalization that makes it work.
