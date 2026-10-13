@@ -522,5 +522,26 @@ AI Generated</description>
  <pubDate>Tue, 13 Oct 2026 09:04:27 +0000</pubDate>
  <itunes:duration>305</itunes:duration>
  </item>
+ <item>
+ <title>Ep. 33: Isometrics for Vertical Jump</title>
+ <description>Overcoming vs yielding isometrics — how pushing against a wall that won&apos;t move adds inches to your vertical.
+
+AI Generated</description>
+ <enclosure url="https://muse.ai/podcasts/media/1324982050699948/009c3769-b6b7-4e36-8457-1bf06792b3ec/ep-050cf18d-c090-418f-ac04-e3ccb66cafee.mp3" length="3222181" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-050cf18d-c090-418f-ac04-e3ccb66cafee</guid>
+ <pubDate>Tue, 13 Oct 2026 09:33:03 +0000</pubDate>
+ <itunes:duration>402</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:15.000" title="Two types of isometrics"/>
+    <psc:chapter start="00:01:30.000" title="Overcoming: neural drive"/>
+    <psc:chapter start="00:02:45.000" title="Yielding: tendon stiffness"/>
+    <psc:chapter start="00:03:30.000" title="Where they fit in the week"/>
+    <psc:chapter start="00:04:30.000" title="Physics of jumping"/>
+    <psc:chapter start="00:05:00.000" title="Dunk myth vs verdict"/>
+    <psc:chapter start="00:05:30.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
