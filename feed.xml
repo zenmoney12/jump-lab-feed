@@ -410,7 +410,20 @@ AI Generated</description>
  <guid isPermaLink="false">ep-7caafa9c-70c8-46ae-a38d-110ca10d243a</guid>
  <pubDate>Sun, 11 Oct 2026 10:05:18 +0000</pubDate>
  <itunes:duration>347</itunes:duration>
- </item>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:20.000" title="Intro + why this episode goes deeper than the fuel episode"/>
+    <psc:chapter start="00:01:00.000" title="The mechanism: phosphocreatine, ten-second efforts, and repeated jumps"/>
+    <psc:chapter start="00:01:45.000" title="Devon's physics of jumping: impulse divided by bodyweight"/>
+    <psc:chapter start="00:02:10.000" title="Maya kills the hype"/>
+    <psc:chapter start="00:02:40.000" title="The water-weight tradeoff: does 1–2 kg hurt your vertical?"/>
+    <psc:chapter start="00:03:05.000" title="The protocol: 3–5g monohydrate daily, no loading, timing barely matters"/>
+    <psc:chapter start="00:03:40.000" title="What to buy"/>
+    <psc:chapter start="00:04:00.000" title="Myths busted: kidneys, cramping, hair loss, cycling"/>
+    <psc:chapter start="00:04:50.000" title="Try this week"/>
+  </psc:chapters>
+</item>
  <item>
  <title>Ep. 28: Study the Greats: Isaiah Rivera — How a 50.5-Inch Vertical Was Actually Built</title>
  <description>The first Study the Greats episode: Isaiah Rivera went from a low vertical to the highest officially tested jump on the planet — 50.5 inches. Devon and Andre break down the decade-long journey, the knee pain that nearly ended it and what a 36-year-old plateau-breaker should actually steal from it.
@@ -501,7 +514,16 @@ AI Generated</description>
  <guid isPermaLink="false">ep-98e58329-7b96-4873-b199-a50ef2ae3b7e</guid>
  <pubDate>Tue, 13 Oct 2026 09:04:27 +0000</pubDate>
  <itunes:duration>305</itunes:duration>
- </item>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:30.000" title="The fake clip, described"/>
+    <psc:chapter start="00:01:15.000" title="The hang-time ceiling"/>
+    <psc:chapter start="00:02:30.000" title="The AI tells"/>
+    <psc:chapter start="00:03:45.000" title="Why it matters"/>
+    <psc:chapter start="00:04:15.000" title="Your Project This Week: The Gravity Check"/>
+  </psc:chapters>
+</item>
  <item>
  <title>Ep. 33: Isometrics for Vertical Jump</title>
  <description>Overcoming vs yielding isometrics — how pushing against a wall that won&apos;t move adds inches to your vertical.
@@ -552,6 +574,16 @@ AI Generated</description>
  <guid isPermaLink="false">ep-509f437c-b8ae-49c7-9d69-d8684d501154</guid>
  <pubDate>Thu, 15 Oct 2026 09:06:29 +0000</pubDate>
  <itunes:duration>295</itunes:duration>
- </item>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:40.000" title="What overspeed teaches the nervous system"/>
+    <psc:chapter start="00:01:30.000" title="Physics of Jumping"/>
+    <psc:chapter start="00:02:15.000" title="The dosing window"/>
+    <psc:chapter start="00:03:00.000" title="Dunk Myth vs Verdict"/>
+    <psc:chapter start="00:03:45.000" title="The session"/>
+    <psc:chapter start="00:04:30.000" title="Your Project This Week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
