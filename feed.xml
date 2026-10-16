@@ -577,18 +577,18 @@ Level: Foundation | Day 1 of the road to 40 inches
 Devon and Andre on the purpose of the show, why it&apos;s the best jumping and dunking podcast on the internet and their commitments to making it better every episode.
 
 AI Generated</description>
- <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/why-jump-lab-exists-our-mission-2026-10-09-110.mp3?v=3" length="2040461" type="audio/mpeg"/>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/why-jump-lab-exists-our-mission-2026-10-09-110-v2.mp3?v=3" length="1936013" type="audio/mpeg"/>
  <guid isPermaLink="false">ep-99c452b7-57f6-45f6-b689-3cd544977b31</guid>
  <pubDate>Sun, 11 Oct 2026 09:59:34 +0000</pubDate>
- <itunes:duration>255</itunes:duration>
+ <itunes:duration>242</itunes:duration>
  
   <psc:chapters version="1.2">
     <psc:chapter start="00:00:00.000" title="Cold open"/>
-    <psc:chapter start="00:00:25.000" title="Why this show exists"/>
-    <psc:chapter start="00:00:57.000" title="Three coaches, three lenses"/>
-    <psc:chapter start="00:01:13.000" title="Hype-free by design"/>
-    <psc:chapter start="00:02:17.000" title="The bold claim"/>
-    <psc:chapter start="00:02:40.000" title="Five commitments"/>
+    <psc:chapter start="00:00:15.000" title="Built for one athlete, useful for all"/>
+    <psc:chapter start="00:01:24.000" title="What makes this show different"/>
+    <psc:chapter start="00:01:46.000" title="Two coaches, two lenses"/>
+    <psc:chapter start="00:02:30.000" title="Research meets coaching"/>
+    <psc:chapter start="00:03:37.000" title="Your Project This Week: The Mailbag Ask"/>
   </psc:chapters>
 </item>
  <item>
@@ -813,6 +813,25 @@ AI Generated</description>
     <psc:chapter start="00:02:44.000" title="Dunk Myth vs Verdict"/>
     <psc:chapter start="00:03:25.000" title="The session"/>
     <psc:chapter start="00:04:05.000" title="Your Project This Week"/>
+  </psc:chapters>
+</item>
+ <item>
+ <title>Ep. 36: Sprint Mechanics for Dunkers</title>
+ <description>Your dunk approach is a sprint that never stands up. Andre and Devon break down acceleration posture, cheek-to-pocket arm action, falling starts and wall drives — plus the Fifteen-Metre Lean Test to film this week.
+
+AI Generated</description>
+ <enclosure url="https://muse.ai/podcasts/media/1324982050699948/009c3769-b6b7-4e36-8457-1bf06792b3ec/ep-a82e9485-e425-4d05-8125-171787d35cee.mp3" length="2351653" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-a82e9485-e425-4d05-8125-171787d35cee</guid>
+ <pubDate>Fri, 16 Oct 2026 08:23:29 +0000</pubDate>
+ <itunes:duration>293</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:49.000" title="Physics of Jumping"/>
+    <psc:chapter start="00:01:28.000" title="Arm action"/>
+    <psc:chapter start="00:02:07.000" title="The session"/>
+    <psc:chapter start="00:02:56.000" title="Dunk Myth vs Verdict"/>
+    <psc:chapter start="00:03:50.000" title="Your Project This Week"/>
   </psc:chapters>
 </item>
 </channel>
