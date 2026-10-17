@@ -834,5 +834,24 @@ AI Generated</description>
     <psc:chapter start="00:03:50.000" title="Your Project This Week"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 37: Your Second-Last Step Steals Your Dunk</title>
+ <description>The penultimate step masterclass: the longest stride, the two-to-three inch hip drop, the quick final plant, film cues that expose a braking step and the Long-Short Lock-In drill to score your approach out of three.
+
+AI Generated</description>
+ <enclosure url="https://muse.ai/podcasts/media/1324982050699948/009c3769-b6b7-4e36-8457-1bf06792b3ec/ep-4bb4d925-6794-47bb-bce6-67bf3f8b29f5.mp3" length="2131621" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-4bb4d925-6794-47bb-bce6-67bf3f8b29f5</guid>
+ <pubDate>Sat, 17 Oct 2026 08:26:59 +0000</pubDate>
+ <itunes:duration>266</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:16.000" title="What the penultimate step actually is"/>
+    <psc:chapter start="00:00:52.000" title="Physics of Jumping: the hip drop"/>
+    <psc:chapter start="00:01:46.000" title="Dunk myth: bigger is always better"/>
+    <psc:chapter start="00:02:12.000" title="Film cues that expose a bad step"/>
+    <psc:chapter start="00:03:36.000" title="Your project: The Long-Short Lock-In"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
