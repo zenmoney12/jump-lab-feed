@@ -795,5 +795,24 @@ AI Generated</description>
     <psc:chapter start="00:03:18.000" title="Your project this week"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 40: Recovery Is Where You Actually Get Higher</title>
+ <description>Training only gives your body a reason to adapt — recovery is where the inches are actually built. Andre and Devon break down the post-session downshift, the three-signal rule for judging fatigue honestly, why soreness lies and why the ice bath after lifting is working against you.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-40-recovery-is-where-you-actually-get-higher-2026-10-20-130.mp3?v=3" length="1983293" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-54a78fb0-3469-43bc-8654-b3905b5ae113</guid>
+ <pubDate>Tue, 20 Oct 2026 08:31:37 +0000</pubDate>
+ <itunes:duration>222</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:22.000" title="Physics of jumping: stress and rebuild"/>
+    <psc:chapter start="00:00:38.000" title="The Downshift"/>
+    <psc:chapter start="00:01:28.000" title="Never act on one signal"/>
+    <psc:chapter start="00:02:10.000" title="Myth: soreness means it worked"/>
+    <psc:chapter start="00:03:00.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
