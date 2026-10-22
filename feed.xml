@@ -833,5 +833,24 @@ AI Generated</description>
     <psc:chapter start="00:02:46.000" title="Your Project This Week: The Breakaway Ramp"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 42: Stop Your Knees From Caving In</title>
+ <description>Knee cave steals height on takeoff and punishes landings. Andre and Devon break down the real causes — hips, ankle range and foot collapse — the cues that actually track the knee and a front-film audit to fix it this week.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-42-stop-your-knees-from-caving-in-2026-10-22-130.mp3?v=4" length="1979405" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-db01028b-192c-45f2-93f7-bd9d85cf6921</guid>
+ <pubDate>Thu, 22 Oct 2026 08:24:54 +0000</pubDate>
+ <itunes:duration>220</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:33.000" title="Why the knee caves in"/>
+    <psc:chapter start="00:00:51.000" title="Physics of Jumping: the sideways leak"/>
+    <psc:chapter start="00:01:10.000" title="Dunk Myth vs Verdict: shove your knees out?"/>
+    <psc:chapter start="00:01:33.000" title="How to train it: band, tempo and step-downs"/>
+    <psc:chapter start="00:02:39.000" title="Your Project This Week: The Knee Track Audit"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
