@@ -852,5 +852,24 @@ AI Generated</description>
     <psc:chapter start="00:02:39.000" title="Your Project This Week: The Knee Track Audit"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 43: Correction: We Oversold Priming</title>
+ <description>A Correction Episode: we oversold the acute priming pop in our contrast, isometrics and overspeed episodes. New research says a proper RAMP warm-up alone beat every add-on — so priming is demoted from lever to unproven extra and the RAMP-Only Test settles it in your own numbers.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-43-correction-we-oversold-priming-2026-10-23-130.mp3?v=4" length="2253149" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-2e146a7d-6cc2-46c0-9c9e-88c1584c6140</guid>
+ <pubDate>Fri, 23 Oct 2026 08:25:56 +0000</pubDate>
+ <itunes:duration>248</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:42.000" title="The study that forced the correction"/>
+    <psc:chapter start="00:01:30.000" title="The counterweight: heavy loads, eight minutes"/>
+    <psc:chapter start="00:01:52.000" title="Physics of jumping: readiness vs fatigue"/>
+    <psc:chapter start="00:02:17.000" title="Dunk myth: a primer guarantees inches"/>
+    <psc:chapter start="00:03:06.000" title="Your project: The RAMP-Only Test"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
