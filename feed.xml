@@ -871,5 +871,24 @@ AI Generated</description>
     <psc:chapter start="00:03:06.000" title="Your project: The RAMP-Only Test"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 44: Achilles Pain? Load It, Don&apos;t Rest It</title>
+ <description>A sore Achilles is a capacity problem, not a rest problem. Andre and Devon break down mid-tendon vs insertional pain, heavy slow calf loading, the next-morning stiffness rule, surface choices and the honest twelve-week timeline for jumpers.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-44-achilles-pain-load-it-dont-rest-it-2026-10-24-130.mp3?v=4" length="1843613" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-36093a19-7085-4ddf-aceb-936ddbed51ab</guid>
+ <pubDate>Sat, 24 Oct 2026 08:21:44 +0000</pubDate>
+ <itunes:duration>205</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:16.000" title="Where it hurts: mid-tendon vs the heel"/>
+    <psc:chapter start="00:00:42.000" title="Physics of jumping: the Achilles spring"/>
+    <psc:chapter start="00:01:01.000" title="Load, don't rest: twelve honest weeks"/>
+    <psc:chapter start="00:01:36.000" title="Dunk myth: pain during rehab"/>
+    <psc:chapter start="00:02:32.000" title="Your project: The Heavy Slow Ladder"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
