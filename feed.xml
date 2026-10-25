@@ -890,5 +890,24 @@ AI Generated</description>
     <psc:chapter start="00:02:32.000" title="Your project: The Heavy Slow Ladder"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 45: The Deload That Makes You Jump Higher</title>
+ <description>A deload is not a week off. Cut volume in half, keep intensity near sixty-five percent and keep clean low jumps in — so fatigue clears and the bounce you already built finally shows up.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-45-the-deload-that-makes-you-jump-higher-2026-10-25-130.mp3?v=4" length="1870277" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-8aeb50ad-eb71-4789-8c7d-d14549893374</guid>
+ <pubDate>Sun, 25 Oct 2026 08:21:06 +0000</pubDate>
+ <itunes:duration>205</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:35.000" title="Cut the volume in half"/>
+    <psc:chapter start="00:00:56.000" title="Physics of jumping: fitness vs fatigue"/>
+    <psc:chapter start="00:01:35.000" title="Dunk myth: a deload costs you gains"/>
+    <psc:chapter start="00:01:51.000" title="What to keep, what to cut"/>
+    <psc:chapter start="00:02:54.000" title="Your project: The Half-Volume Hold"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
