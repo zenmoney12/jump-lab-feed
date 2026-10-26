@@ -909,5 +909,25 @@ AI Generated</description>
     <psc:chapter start="00:02:54.000" title="Your project: The Half-Volume Hold"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 46: Once a Day, Once a Week, Once a Month</title>
+ <description>The 1-1-1 Stack for a plateaued dunker: a two-minute daily pogo dose for ankle spring, one max-intent Saturday dunk session with a five-percent stop rule and one honest monthly test plus log review.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-46-once-a-day-once-a-week-once-a-month-2026-10-26-130.mp3?v=4" length="2915405" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-898b76eb-20c9-4613-908c-1305c010b54e</guid>
+ <pubDate>Mon, 26 Oct 2026 08:22:31 +0000</pubDate>
+ <itunes:duration>182</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:31.000" title="Once a day: the two-minute pogo dose"/>
+    <psc:chapter start="00:00:49.000" title="Physics of jumping: ankle stiffness"/>
+    <psc:chapter start="00:01:01.000" title="Once a week: the max-intent session"/>
+    <psc:chapter start="00:01:32.000" title="Dunk myth: jumping hard every day"/>
+    <psc:chapter start="00:01:50.000" title="Once a month: the honest test"/>
+    <psc:chapter start="00:02:21.000" title="Your project: The 1-1-1 Stack"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
