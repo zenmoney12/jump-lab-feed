@@ -929,5 +929,24 @@ AI Generated</description>
     <psc:chapter start="00:02:21.000" title="Your project: The 1-1-1 Stack"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 47: What to Eat 2 Hours Before You Jump</title>
+ <description>Timing beats supplements: Andre and Devon lay out the Two-Hour Fuel Rule — the carb-first meal two hours before a jump session, the early-morning top-up, what actually matters after training and why fasted Saturdays feel flat.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-47-what-to-eat-2-hours-before-you-jump-2026-10-27-130.mp3?v=4" length="1791773" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-68a6c569-68fe-4dd2-8a7b-5d3319240e7a</guid>
+ <pubDate>Tue, 27 Oct 2026 08:18:04 +0000</pubDate>
+ <itunes:duration>197</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:23.000" title="The meal two hours before"/>
+    <psc:chapter start="00:00:52.000" title="Physics of jumping: glycogen and impulse"/>
+    <psc:chapter start="00:01:14.000" title="The early-morning top-up"/>
+    <psc:chapter start="00:01:47.000" title="Dunk myth: the thirty-minute window"/>
+    <psc:chapter start="00:02:33.000" title="Your project: The Two-Hour Fuel Rule"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
