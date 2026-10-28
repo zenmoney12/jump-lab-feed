@@ -948,5 +948,24 @@ AI Generated</description>
     <psc:chapter start="00:02:33.000" title="Your project: The Two-Hour Fuel Rule"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 48: Dehydration Is Stealing Your Inches</title>
+ <description>How much dehydration actually costs your vertical: the 2% threshold, sodium and electrolytes and the Weigh-In, Weigh-Out Rule to protect your Saturday max jumps.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-48-dehydration-is-stealing-your-inches-2026-10-28-130.mp3?v=4" length="1948877" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-3dc00c69-1d7e-48de-9a66-061addb41b61</guid>
+ <pubDate>Wed, 28 Oct 2026 08:21:04 +0000</pubDate>
+ <itunes:duration>213</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:21.000" title="The two percent line"/>
+    <psc:chapter start="00:00:52.000" title="Physics of jumping: why dry jumps fade"/>
+    <psc:chapter start="00:01:17.000" title="Sodium and electrolytes"/>
+    <psc:chapter start="00:01:45.000" title="The weigh-in, weigh-out method"/>
+    <psc:chapter start="00:02:53.000" title="Your project: The Weigh-In, Weigh-Out Rule"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
