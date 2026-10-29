@@ -967,5 +967,24 @@ AI Generated</description>
     <psc:chapter start="00:02:53.000" title="Your project: The Weigh-In, Weigh-Out Rule"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 49: Caffeine for Jumpers: Dose It Right</title>
+ <description>Caffeine blocks tiredness, not weakness — the dose, timing and sleep trade-off that decide whether it helps your Saturday max session or quietly steals tomorrow.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-49-caffeine-for-jumpers-dose-it-right-2026-10-29-130.mp3?v=4" length="1794221" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-f462c4ca-394a-4a14-bffd-5537127d2121</guid>
+ <pubDate>Thu, 29 Oct 2026 08:20:21 +0000</pubDate>
+ <itunes:duration>198</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:28.000" title="The dose that actually helps"/>
+    <psc:chapter start="00:00:58.000" title="Chemistry of jumping: why timing matters"/>
+    <psc:chapter start="00:01:16.000" title="Dunk myth: more caffeine, more inches?"/>
+    <psc:chapter start="00:01:34.000" title="The bill: half-life and sleep"/>
+    <psc:chapter start="00:02:35.000" title="Your project: The Two-Saturday Caffeine Test"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
