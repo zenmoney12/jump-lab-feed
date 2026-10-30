@@ -986,5 +986,24 @@ AI Generated</description>
     <psc:chapter start="00:02:35.000" title="Your project: The Two-Saturday Caffeine Test"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 50: Ice Baths Are Stealing Your Gains</title>
+ <description>Ice baths reduce soreness, but cold right after lifting can blunt the muscle and strength gains the session was for. Andre and Devon break down when cold helps, when it hurts and the Rest-Day Cold Rule for jumpers.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-50-ice-baths-are-stealing-your-gains-2026-10-30-130.mp3?v=4" length="1994141" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-a9dcb2e6-e83d-469f-bb12-585760e90e73</guid>
+ <pubDate>Fri, 30 Oct 2026 08:19:53 +0000</pubDate>
+ <itunes:duration>219</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:37.000" title="Feeling recovered is not adapting"/>
+    <psc:chapter start="00:01:13.000" title="Dunk myth: soreness equals recovery"/>
+    <psc:chapter start="00:01:41.000" title="When cold is actually the right call"/>
+    <psc:chapter start="00:02:16.000" title="Separate the cold from the lift"/>
+    <psc:chapter start="00:02:53.000" title="Your project: The Rest-Day Cold Rule"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
