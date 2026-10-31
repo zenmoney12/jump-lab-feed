@@ -1005,5 +1005,24 @@ AI Generated</description>
     <psc:chapter start="00:02:53.000" title="Your project: The Rest-Day Cold Rule"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 51: Massage Guns: Loud Placebo or Real Tool?</title>
+ <description>Massage guns genuinely loosen you up and dial down how sore you feel — but do they add a single inch? Andre and Devon audit the evidence: what percussive therapy actually does (range of motion, perceived soreness), what it cannot do (force, tissue remodeling, flushing), the timing mistake that can leave you flat before max jumps and a two-minute test that tells you if yours earns its place.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-51-massage-guns-loud-placebo-or-real-tool-2026-10-31-130.mp3?v=4" length="2009045" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-40052714-3bb9-4aad-969e-d73d068978d7</guid>
+ <pubDate>Sat, 31 Oct 2026 08:20:41 +0000</pubDate>
+ <itunes:duration>220</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:35.000" title="What the gun actually does"/>
+    <psc:chapter start="00:01:19.000" title="Dunk myth: knots, flushing, and scar tissue"/>
+    <psc:chapter start="00:01:40.000" title="Physics of jumping: no new force"/>
+    <psc:chapter start="00:02:09.000" title="Dose, timing, and safety rules"/>
+    <psc:chapter start="00:02:47.000" title="Your project: The Five-Minute Target Test"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
