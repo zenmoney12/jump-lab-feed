@@ -1024,5 +1024,24 @@ AI Generated</description>
     <psc:chapter start="00:02:47.000" title="Your project: The Five-Minute Target Test"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 52: Your Ankles Need Balance, Not Luck</title>
+ <description>Balance and proprioception training cuts ankle sprains by roughly a third in athletes. Andre and Devon break down the sensor loop that saves a bad landing, a simple progression from stance to hop-and-stick and the Stick-and-Reach Test to run this week.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-52-your-ankles-need-balance-not-luck-2026-11-01-130.mp3?v=4" length="1966973" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-e7a233f6-d59b-4145-b446-3a9a16b96e4d</guid>
+ <pubDate>Sun, 01 Nov 2026 09:19:03 +0000</pubDate>
+ <itunes:duration>215</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:17.000" title="A third fewer sprains: the evidence"/>
+    <psc:chapter start="00:00:33.000" title="The sensor loop that saves a landing"/>
+    <psc:chapter start="00:01:08.000" title="Dunk myth: no sprain history, no problem?"/>
+    <psc:chapter start="00:01:43.000" title="The balance ladder: stance to hop-and-stick"/>
+    <psc:chapter start="00:02:45.000" title="Your project: The Stick-and-Reach Test"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
