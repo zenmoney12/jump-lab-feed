@@ -1043,5 +1043,24 @@ AI Generated</description>
     <psc:chapter start="00:02:45.000" title="Your project: The Stick-and-Reach Test"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 53: The 40-Inch Roadmap: Years 2 and 3</title>
+ <description>Once the beginner gains are gone, forty inches stops being a twelve-week project and becomes a two-year one. Andre and Devon lay out the block rotation — strength, conversion, skill — quarterly honest test days and why repeatability improves before your peak does.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-53-the-40-inch-roadmap-years-2-and-3-2026-11-02-130.mp3?v=4" length="1983413" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-e0409185-dd9b-4788-8fd9-3ad0d2531dc1</guid>
+ <pubDate>Mon, 02 Nov 2026 09:21:52 +0000</pubDate>
+ <itunes:duration>217</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:17.000" title="Why year two is different"/>
+    <psc:chapter start="00:00:49.000" title="One lead quality at a time: the block rotation"/>
+    <psc:chapter start="00:01:33.000" title="Dunk myth: three weeks is too soon to judge"/>
+    <psc:chapter start="00:01:52.000" title="Test every twelve weeks, and widen what progress means"/>
+    <psc:chapter start="00:02:50.000" title="Your project this week: The Two-Year Map"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
