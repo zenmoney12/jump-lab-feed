@@ -1062,5 +1062,24 @@ AI Generated</description>
     <psc:chapter start="00:02:50.000" title="Your project this week: The Two-Year Map"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 54: Win the Dunk Contest Before You Jump</title>
+ <description>A dunk contest is won before the first jump: taper the week, rank your dunks by make rate instead of difficulty, protect your attempt budget and have a plan for a miss and for the long waits between rounds.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-54-win-the-dunk-contest-before-you-jump-2026-11-03-130.mp3?v=4" length="1983629" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-41a4c9d6-f3ff-4621-9b0e-f41605cd2d77</guid>
+ <pubDate>Tue, 03 Nov 2026 09:19:45 +0000</pubDate>
+ <itunes:duration>220</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:30.000" title="The contest-week taper"/>
+    <psc:chapter start="00:00:54.000" title="Physics of Jumping: the impulse budget"/>
+    <psc:chapter start="00:01:11.000" title="Pick your dunks by make rate"/>
+    <psc:chapter start="00:02:02.000" title="The two-attempt miss plan"/>
+    <psc:chapter start="00:02:56.000" title="Your Project This Week: The Contest Card"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
