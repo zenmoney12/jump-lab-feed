@@ -1100,5 +1100,24 @@ AI Generated</description>
     <psc:chapter start="00:02:48.000" title="Your Project This Week: The Side-Front Audit"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 56: Barefoot Training, Without the Hype</title>
+ <description>Barefoot training will not add inches by itself — but a stiff, awake foot stops the force you already have from leaking at the floor. Andre and Devon cover the real benefits, the real risks and The Barefoot On-Ramp: a ten-minute, three-session starter week with a morning-check dose gauge.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-56-barefoot-training-without-the-hype-2026-11-05-130.mp3?v=4" length="3860781" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-61b60f5d-98ef-4c55-b24e-f2d9568c8c71</guid>
+ <pubDate>Sat, 07 Nov 2026 09:01:49 +0000</pubDate>
+ <itunes:duration>241</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:42.000" title="Physics of Jumping: the foot is the first spring"/>
+    <psc:chapter start="00:01:11.000" title="Dunk Myth vs Verdict: more barefoot is always better"/>
+    <psc:chapter start="00:01:40.000" title="What stays in shoes"/>
+    <psc:chapter start="00:02:20.000" title="The morning check: your dose gauge"/>
+    <psc:chapter start="00:02:50.000" title="Your Project This Week: The Barefoot On-Ramp"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
