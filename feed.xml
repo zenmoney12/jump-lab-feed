@@ -1119,5 +1119,24 @@ AI Generated</description>
     <psc:chapter start="00:02:50.000" title="Your Project This Week: The Barefoot On-Ramp"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 57: Hill Sprints Build Real Power</title>
+ <description>Hill sprints train the one position your dunk approach actually lives in — lean-forward acceleration under resistance. The right grade (5-10%), the right dose (6-8 reps of 20-30 metres, full rest), the calf and Achilles rules and The Six-Rep Hill Test to run this week.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-57-hill-sprints-build-real-power-2026-11-08-130.mp3?v=4" length="2121293" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-756743f3-72ca-4bf9-a843-03cec1df1def</guid>
+ <pubDate>Sun, 08 Nov 2026 09:04:33 +0000</pubDate>
+ <itunes:duration>234</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:31.000" title="Physics of Jumping: acceleration is horizontal force"/>
+    <psc:chapter start="00:00:51.000" title="The right hill: five to ten percent grade"/>
+    <psc:chapter start="00:01:21.000" title="The dose: distance, reps, and rest"/>
+    <psc:chapter start="00:01:45.000" title="Where hills fit in your week and the calf gauge"/>
+    <psc:chapter start="00:03:11.000" title="Your Project This Week: The Six-Rep Hill Test"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
