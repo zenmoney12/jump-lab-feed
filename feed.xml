@@ -1138,5 +1138,24 @@ AI Generated</description>
     <psc:chapter start="00:03:11.000" title="Your Project This Week: The Six-Rep Hill Test"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 58: Heavy Sleds Build First Steps</title>
+ <description>Heavy sled pushes and pulls for the first steps of the dunk approach: how to find the load that halves your 20-metre speed, push vs pull, dosing and the Half-Speed Sled Test.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-58-heavy-sleds-build-first-steps-2026-11-09-130.mp3?v=4" length="1995077" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-4042909f-24e7-4869-8917-683dd11fcfa4</guid>
+ <pubDate>Mon, 09 Nov 2026 09:05:54 +0000</pubDate>
+ <itunes:duration>219</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:27.000" title="Physics of Jumping: horizontal force"/>
+    <psc:chapter start="00:00:49.000" title="How heavy is heavy enough"/>
+    <psc:chapter start="00:01:14.000" title="Push or pull?"/>
+    <psc:chapter start="00:01:33.000" title="Dunk Myth vs Verdict: lighter is always better"/>
+    <psc:chapter start="00:02:58.000" title="Your Project This Week: The Half-Speed Sled Test"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
