@@ -1157,5 +1157,24 @@ AI Generated</description>
     <psc:chapter start="00:02:58.000" title="Your Project This Week: The Half-Speed Sled Test"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 59: Loaded + Mixed Beats Either Alone — Probably</title>
+ <description>Combined plyometric training ranked first in a 32-trial network meta-analysis — but its own authors won&apos;t call it the winner. Andre and Devon weld Episodes 57 and 58&apos;s hills and heavy sleds into one honest week: two loaded days, one mixed plyo day and a Saturday test that grades it.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-59-loaded-mixed-beats-either-alone-probably-2026-11-10-130.mp3?v=4" length="2004365" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-ce57a843-b989-4bc8-b74e-022873573521</guid>
+ <pubDate>Tue, 10 Nov 2026 09:05:03 +0000</pubDate>
+ <itunes:duration>220</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:19.000" title="Ranked first"/>
+    <psc:chapter start="00:01:03.000" title="Physics of jumping: force meets speed"/>
+    <psc:chapter start="00:01:20.000" title="Jump training is specific"/>
+    <psc:chapter start="00:02:07.000" title="The 2+1 week, built out"/>
+    <psc:chapter start="00:02:56.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
