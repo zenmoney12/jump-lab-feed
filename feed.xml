@@ -12,6 +12,12 @@
  <itunes:email>sistieric@gmail.com</itunes:email>
  </itunes:owner>
  <managingEditor>sistieric@gmail.com (Dunk Lab)</managingEditor>
+ <itunes:category text="Sports">
+ <itunes:category text="Basketball"/>
+ </itunes:category>
+ <itunes:category text="Health &amp; Fitness">
+ <itunes:category text="Fitness"/>
+ </itunes:category>
  <itunes:explicit>false</itunes:explicit>
  <atom:link href="https://muse.ai/podcasts/feed/1324982050699948/009c3769-b6b7-4e36-8457-1bf06792b3ec" rel="self" type="application/rss+xml"/>
  <itunes:image href="https://zenmoney12.github.io/jump-lab-feed/dunk-lab-cover.jpg"/>
@@ -1174,6 +1180,25 @@ AI Generated</description>
     <psc:chapter start="00:01:20.000" title="Jump training is specific"/>
     <psc:chapter start="00:02:07.000" title="The 2+1 week, built out"/>
     <psc:chapter start="00:02:56.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
+ <item>
+ <title>Ep. 60: How Deep Should a Jumper Squat?</title>
+ <description>ATG, parallel, or quarter — which squat depth actually builds a bigger vertical? Deep squats transferred to the jump in the research and quarter squats alone did not, but the honest answer is a just-below-parallel main lift plus a heavy quarter top-up, tested with the Two-Depth Test.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-60-how-deep-should-a-jumper-squat-2026-11-11-130.mp3?v=4" length="2452349" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-34a3aeaf-2894-40c1-94eb-6a023a5e0bcf</guid>
+ <pubDate>Wed, 11 Nov 2026 09:14:19 +0000</pubDate>
+ <itunes:duration>269</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:36.000" title="The ten-week depth test"/>
+    <psc:chapter start="00:01:53.000" title="Physics of jumping"/>
+    <psc:chapter start="00:02:06.000" title="Dunk myth vs verdict: deep squats and knees"/>
+    <psc:chapter start="00:02:41.000" title="The build: just below parallel, plus the top-up"/>
+    <psc:chapter start="00:03:24.000" title="Your project: The Two-Depth Test"/>
   </psc:chapters>
 </item>
 </channel>
