@@ -1201,5 +1201,25 @@ AI Generated</description>
     <psc:chapter start="00:03:24.000" title="Your project: The Two-Depth Test"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 61: Slow Reps, Faster Jumps?</title>
+ <description>Tempo training for jumpers: why slowing every rep down kills power, what the eccentric-duration research actually says about jump height and how to use pause squats and controlled eccentrics in one weekly session without slowing yourself down.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-61-slow-reps-faster-jumps-2026-11-12-130.mp3?v=4" length="2567357" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-872dbd98-29a4-4490-af29-0af864c04336</guid>
+ <pubDate>Thu, 12 Nov 2026 09:10:27 +0000</pubDate>
+ <itunes:duration>282</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:34.000" title="Tempo, defined: three-one-X"/>
+    <psc:chapter start="00:00:56.000" title="The eccentric test: shorter won for jumping"/>
+    <psc:chapter start="00:01:39.000" title="Physics of jumping"/>
+    <psc:chapter start="00:02:05.000" title="Dunk myth vs verdict: time under tension"/>
+    <psc:chapter start="00:02:36.000" title="The build: one tempo day a week"/>
+    <psc:chapter start="00:03:40.000" title="Your project: The Three-One-X Test"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
