@@ -1221,5 +1221,26 @@ AI Generated</description>
     <psc:chapter start="00:03:40.000" title="Your project: The Three-One-X Test"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 62: Cluster Sets: Rest to Jump Higher?</title>
+ <description>Cluster sets split a heavy set with short rests inside it — Devon breaks down the basketball jump-squat study, the bar-speed evidence, the honest long-term tie with straight sets and the Two-Two-Two Test to settle it in your own gym.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-62-cluster-sets-rest-to-jump-higher-2026-11-13-130.mp3?v=4" length="2542229" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-a7a9fa03-7372-41e6-a3bb-217af4fce129</guid>
+ <pubDate>Fri, 13 Nov 2026 12:07:04 +0000</pubDate>
+ <itunes:duration>268</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:14.000" title="What a cluster set actually is"/>
+    <psc:chapter start="00:00:57.000" title="What the research actually says"/>
+    <psc:chapter start="00:01:41.000" title="Physics of jumping: power is force times speed"/>
+    <psc:chapter start="00:02:08.000" title="Dunk myth vs verdict: resting mid-set is cheating"/>
+    <psc:chapter start="00:02:25.000" title="The honest friction: the long-term evidence"/>
+    <psc:chapter start="00:03:00.000" title="How to program clusters"/>
+    <psc:chapter start="00:03:39.000" title="Your project this week: the Two-Two-Two Test"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
