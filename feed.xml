@@ -1242,5 +1242,24 @@ AI Generated</description>
     <psc:chapter start="00:03:39.000" title="Your project this week: the Two-Two-Two Test"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 63: Stop the Set at 20% Slower</title>
+ <description>Velocity-based training for dunkers: what bar speed actually tells you, why stopping a set at a twenty percent slowdown protects your jump and the free low-tech version — no sensor required.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-63-stop-the-set-at-20-slower-2026-11-14-130.mp3?v=4" length="2139365" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-7f674abf-a55a-4bdd-a85d-c2d44413f748</guid>
+ <pubDate>Sat, 14 Nov 2026 09:07:03 +0000</pubDate>
+ <itunes:duration>224</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:15.000" title="What bar speed actually measures"/>
+    <psc:chapter start="00:00:49.000" title="The twenty percent versus forty percent study"/>
+    <psc:chapter start="00:01:34.000" title="Physics of jumping: force times speed"/>
+    <psc:chapter start="00:02:04.000" title="The low-tech version, no sensor needed"/>
+    <psc:chapter start="00:03:08.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
