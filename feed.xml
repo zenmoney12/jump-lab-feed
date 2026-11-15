@@ -1261,5 +1261,24 @@ AI Generated</description>
     <psc:chapter start="00:03:08.000" title="Your project this week"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 64: Your Plan Doesn&apos;t Know You&apos;re Tired</title>
+ <description>Devon explains autoregulation for jumpers: use three warm-up jumps and effort ratings to set the day&apos;s load with the Traffic Light Session, instead of blindly obeying a percentage when you&apos;re tired.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-64-your-plan-doesnt-know-youre-tired-2026-11-15-130.mp3?v=4" length="1941149" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-a629225f-03dc-416a-90d3-e7f3a24e19f7</guid>
+ <pubDate>Sun, 15 Nov 2026 09:06:56 +0000</pubDate>
+ <itunes:duration>204</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:13.000" title="The problem with fixed percentages"/>
+    <psc:chapter start="00:00:45.000" title="The twelve-week study"/>
+    <psc:chapter start="00:01:42.000" title="Physics of jumping: impulse and fatigue"/>
+    <psc:chapter start="00:02:10.000" title="The Traffic Light rules"/>
+    <psc:chapter start="00:02:51.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
