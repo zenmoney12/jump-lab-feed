@@ -1280,5 +1280,24 @@ AI Generated</description>
     <psc:chapter start="00:02:51.000" title="Your project this week"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 65: Tired or Actually Overtrained?</title>
+ <description>Devon separates normal overreaching from true overtraining syndrome: the recovery timelines from the European and American sports-medicine consensus that tell the three states apart, the two-week sign pattern that actually matters, and the step-back ladder that matches the fix to the problem — including when to stop self-coaching and see a clinician.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-65-tired-or-actually-overtrained-2026-11-16-130.mp3?v=4" length="2219765" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-ba2d9b04-5764-4ab6-aa94-31afab6976a4</guid>
+ <pubDate>Mon, 16 Nov 2026 09:07:00 +0000</pubDate>
+ <itunes:duration>232</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:15.000" title="The overreaching spectrum"/>
+    <psc:chapter start="00:01:15.000" title="The two-week sign pattern"/>
+    <psc:chapter start="00:01:41.000" title="Physics of jumping: fatigue eats impulse first"/>
+    <psc:chapter start="00:02:30.000" title="The step-back ladder"/>
+    <psc:chapter start="00:03:07.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
