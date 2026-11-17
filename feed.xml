@@ -1299,5 +1299,24 @@ AI Generated</description>
     <psc:chapter start="00:03:07.000" title="Your project this week"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Ep. 66: One Hand or Two Hands to Dunk?</title>
+ <description>Devon settles the one-hand versus two-hand dunk debate with geometry instead of style: why the two-handed finish needs roughly three extra inches of clearance for the same basket, when its control is worth the price, and how the palm problem quietly picks the finish for most dunkers. The episode closes with a wall-and-attempts test that picks your default finish from your own numbers.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/ep-66-one-hand-or-two-hands-to-dunk-2026-11-17-130.mp3?v=4" length="2217821" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-d16d9636-7b69-480a-ab01-61575de1230c</guid>
+ <pubDate>Tue, 17 Nov 2026 09:15:00 +0000</pubDate>
+ <itunes:duration>232</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:11.000" title="The reach math: six inches versus nine"/>
+    <psc:chapter start="00:01:05.000" title="Physics of jumping: same engine, pricier delivery"/>
+    <psc:chapter start="00:01:33.000" title="When two hands actually wins"/>
+    <psc:chapter start="00:02:06.000" title="The palm problem"/>
+    <psc:chapter start="00:03:06.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
