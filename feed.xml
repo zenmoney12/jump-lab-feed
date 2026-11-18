@@ -1318,5 +1318,24 @@ AI Generated</description>
     <psc:chapter start="00:03:06.000" title="Your project this week"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Dunk Training: The Alley-Oop Is a Timing Problem, Not a Jump Problem (Ep. 67)</title>
+ <description>Dunk training for the alley-oop: Devon breaks the play down as a timing problem, not a jump problem — the thrower’s target window, the finisher’s leave-moment, the one signal that syncs them, and why a predictable lob beats a perfect one. The episode closes with a three-round lob ladder that teaches the timing in a single week.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/dunk-training-the-alley-oop-is-a-timing-problem-not-a-jump-problem-ep-67-2026-11-18-130.mp3?v=4" length="2182565" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-860ef45c-7250-4833-8cab-c1ae443de93b</guid>
+ <pubDate>Wed, 18 Nov 2026 09:31:00 +0000</pubDate>
+ <itunes:duration>228</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:43.000" title="The thrower’s window"/>
+    <psc:chapter start="00:01:06.000" title="The finisher’s half"/>
+    <psc:chapter start="00:01:30.000" title="Communication: one signal, one call"/>
+    <psc:chapter start="00:01:53.000" title="Physics of jumping: a fixed flight path"/>
+    <psc:chapter start="00:03:00.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
