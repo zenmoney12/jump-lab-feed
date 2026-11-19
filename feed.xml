@@ -1337,5 +1337,25 @@ AI Generated</description>
     <psc:chapter start="00:03:00.000" title="Your project this week"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Jump Training (Ep. 68): Why Your Practice Dunk Disappears in Games</title>
+ <description>Jump training for your vertical jump — why a dunk that feels automatic in practice disappears in a real game, and how to bridge the gap. Devon breaks down the three taxes a game charges every dunk — a shorter, angled approach off a dribble or cut, legs that are no longer fresh, and attention split between the defender, the decision, and the landing — and gives the margin rule and a scored ladder for turning a practice dunk into a game dunk.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/jump-training-ep-68-why-your-practice-dunk-disappears-in-games-2026-11-19-130.mp3?v=4" length="2276429" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-2e186f23-6692-49dc-b2da-dd02ab28e316</guid>
+ <pubDate>Thu, 19 Nov 2026 09:38:00 +0000</pubDate>
+ <itunes:duration>237</itunes:duration>
+ 
+
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:46.000" title="The three taxes a game charges"/>
+    <psc:chapter start="00:01:44.000" title="Physics of Jumping"/>
+    <psc:chapter start="00:02:02.000" title="Dunk myth vs verdict"/>
+    <psc:chapter start="00:02:22.000" title="Bridge it: train the taxed version"/>
+    <psc:chapter start="00:03:13.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
