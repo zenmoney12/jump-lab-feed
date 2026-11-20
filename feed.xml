@@ -1357,5 +1357,24 @@ AI Generated</description>
     <psc:chapter start="00:03:13.000" title="Your project this week"/>
   </psc:chapters>
 </item>
+ <item>
+ <title>Vertical Jump Training (Ep. 69): The Honest Audit — Find What's Holding You Back</title>
+ <description>Vertical jump training for the Road to Forty Inches — Part 1, the Honest Audit. Devon argues most plateaued jumpers don't have a vertical problem, they have a wrong-limiter problem, and gives a four-bucket diagnostic — force, conversion, skill, and availability — to find the one link in the chain that is actually holding the jump back.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/vertical-jump-training-ep-69-the-honest-audit-find-whats-holding-you-back-2026-11-20-130.mp3?v=4" length="2719133" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-99e45b5a-0878-4fd4-ba5e-aa2d57f3324f</guid>
+ <pubDate>Fri, 20 Nov 2026 09:24:00 +0000</pubDate>
+ <itunes:duration>286</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:44.000" title="The Four-Bucket Audit"/>
+    <psc:chapter start="00:01:09.000" title="Force, conversion and skill"/>
+    <psc:chapter start="00:02:21.000" title="Availability: can you access your jump?"/>
+    <psc:chapter start="00:02:46.000" title="Physics of Jumping"/>
+    <psc:chapter start="00:03:57.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
