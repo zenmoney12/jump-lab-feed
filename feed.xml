@@ -1376,5 +1376,24 @@ AI Generated</description>
     <psc:chapter start="00:03:57.000" title="Your project this week"/>
   </psc:chapters>
 </item>
+<item>
+ <title>Dunk Training (Ep. 70): The Strength Numbers That Unlock 40 Inches</title>
+ <description>Dunk training for the force bucket: the three strength standards that set your vertical jump's ceiling — a squat pattern around one and a half times bodyweight (or a trap bar deadlift around twice bodyweight), single-leg strength with the two sides within about ten percent, and single-leg calf strength — why maximum strength raises the fraction of force you can use in two tenths of a second, and how to build the foundation in four weeks without wrecking your jump days.
+
+AI Generated</description>
+ <enclosure url="https://zenmoney12.github.io/jump-lab-feed/audio/dunk-training-ep-70-the-strength-numbers-that-unlock-40-inches-2026-11-21-130.mp3?v=4" length="2657789" type="audio/mpeg"/>
+ <guid isPermaLink="false">ep-f80a4038-b994-4109-88ed-e564033b05b4</guid>
+ <pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
+ <itunes:duration>277</itunes:duration>
+ 
+  <psc:chapters version="1.2">
+    <psc:chapter start="00:00:00.000" title="Cold open"/>
+    <psc:chapter start="00:00:53.000" title="The strength standards"/>
+    <psc:chapter start="00:01:27.000" title="Single-leg strength"/>
+    <psc:chapter start="00:02:19.000" title="Physics of jumping"/>
+    <psc:chapter start="00:03:04.000" title="How to build the foundation"/>
+    <psc:chapter start="00:03:46.000" title="Your project this week"/>
+  </psc:chapters>
+</item>
 </channel>
 </rss>
